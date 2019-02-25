@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background-color:blue;
+    
+}
+div {
+    
+    border-style:dotted;
+    border-color:#ffffff;
+    padding:0px;
+    margin:0px;
+}
+img {
+    width:500px;
+}
+.a {
+    list-style-type: disc
+    text-align: left;
+}
+h3 {
+    font-family: Tangerine;
+    font-size: 500px;
+    text-shadow: 30px 30px 30px #974
+}
+p {
+    font-size:100px;
+    text-shadow: 5px 5px 5px #444;
+}
