@@ -25,4 +25,10 @@ h3 {
 p {
     font-size:100px;
     text-shadow: 5px 5px 5px #444;
+    background: linear-gradient(90deg, red, blue);
+    animation-name: jump;
+    animation-duration: <3s>;
+}
+table, td, th {
+    border: 5px solid black;
 }
