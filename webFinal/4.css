@@ -1,0 +1,15 @@
+  .jumbotron {
+                text-align: center;
+                background-color: #E7717D;
+                color: #C2CAD0;
+                font-size: 50px; 
+                font-family: srisakdi;
+  }
+    body {
+              background-color: #C2B9B0 !important;
+              text-align:center !important;
+            }
+            
+    h3 {
+              font-family: IndieFlower;
+    }
