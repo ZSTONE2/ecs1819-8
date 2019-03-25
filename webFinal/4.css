@@ -8,8 +8,12 @@
     body {
               background-color: #C2B9B0 !important;
               text-align:center !important;
+              font-family: Montserrat !important;
             }
             
     h3 {
               font-family: IndieFlower;
     }
+    .yo {
+  font-family:IndieFlower !important;
+}
